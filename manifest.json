@@ -1,10 +1,10 @@
 {
-  "display_name": "Avatar Zoom Tracker",
+  "display_name": "Avatar Character Zoom Tracker",
   "requires": [],
   "optional": [],
   "js": "index.js",
-  "author": "Happydragoon",
+  "author": "DimonByte (Fork of Happydragun4now ST-Avatar-Tracker)",
   "version": "2.0.0",
-  "homePage": "https://github.com/Happydragun4now/ST-Avatar-Tracker",
+  "homePage": "https://github.com/DimonByte/ST-Char-Avatar-Tracker",
   "auto_update": true
 }
